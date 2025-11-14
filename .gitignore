@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDEs and OS
+.idea/
+.vscode/
+.DS_Store
+
+# Streamlit
+.streamlit/
